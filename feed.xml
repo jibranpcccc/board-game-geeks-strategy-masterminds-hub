@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Board Game Geeks &amp; Strategy Masterminds Hub</title>
+    <link>https://board-game-geeks-strategy-masterminds-hub.netlify.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Fri, 18 Sep 2026 10:59:00 GMT</lastBuildDate>
+    <atom:link href="https://board-game-geeks-strategy-masterminds-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Board Game Geeks &amp; Strategy Masterminds Hub Initial Release</title>
+      <link>https://board-game-geeks-strategy-masterminds-hub.netlify.app/</link>
+      <pubDate>Fri, 18 Sep 2026 10:59:00 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
